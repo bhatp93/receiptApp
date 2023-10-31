@@ -1,0 +1,6 @@
+com/fetch/receiptprocessor/Controllers/ResponsePoints.class
+com/fetch/receiptprocessor/Controllers/ReceiptEndpoints.class
+com/fetch/receiptprocessor/Controllers/ResponseId.class
+com/fetch/receiptprocessor/ReceiptProcessorApplication.class
+com/fetch/receiptprocessor/Controllers/Item.class
+com/fetch/receiptprocessor/Controllers/Receipt.class
