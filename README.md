@@ -4,7 +4,7 @@ src/main/java/com/fetch/receiptprocessor/Controllers/ReceiptEndpoints.java
 
 The ReceiptEndpoints.java is the controller that receives the Post and Get requests. 
 
-The application using the file src/test/java/com/fetch/receiptprocessor/ReceiptProcessorApplicationTests.java
+The application is started using the file src/test/java/com/fetch/receiptprocessor/ReceiptProcessorApplicationTests.java as this contains the main() function
 
 
 
